@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Gddad</title>
+
     <item>
       <title>Gddad 1.1.1</title>
       <description>Bug fixes and improvements.</description>
-      <sparkle:version>1.1.1</sparkle:version>
-      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+
+      <enclosure
+          url="https://example.com/gddad"
+          sparkle:version="1.1.1"
+          sparkle:shortVersionString="1.1.1" />
     </item>
+
   </channel>
 </rss>
