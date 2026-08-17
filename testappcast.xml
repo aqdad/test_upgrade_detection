@@ -5,13 +5,13 @@
     <title>Gddad</title>
 
     <item>
-      <title>Gddad 1.1.1</title>
-      <description>Bug fixes and improvements.</description>
+      <title>Gddad 1.1.2</title>
+      <description>Bug fixes and improvements. TEST IOS UPGRADE DETECTION</description>
 
       <enclosure
           url="https://example.com/gddad"
-          sparkle:version="1.1.1"
-          sparkle:shortVersionString="1.1.1" />
+          sparkle:version="1.1.2"
+          sparkle:shortVersionString="1.1.2" />
     </item>
 
   </channel>
