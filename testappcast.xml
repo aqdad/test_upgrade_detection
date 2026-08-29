@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+
   <channel>
     <title>Gddad</title>
 
     <item>
       <title>Gddad 1.1.2</title>
-      <description>Bug fixes and improvements. TEST IOS UPGRADE DETECTION</description>
+
+      <description>Bug fixes and improvements.</description>
 
       <enclosure
-          url="https://example.com/gddad"
+          url="https://apps.apple.com/eg/app/YOUR-APP-NAME/idYOUR_APP_ID"
           sparkle:version="1.1.2"
           sparkle:shortVersionString="1.1.2" />
     </item>
